@@ -62,4 +62,4 @@ If you use this implementation in your research, please consider citing the foll
 For issues or questions, feel free to open an issue in the repository.
 
 ## 📢 Acknowledgments
-- This implementation is inspired by the research on Adaptive Centroid Shifting for one-class learning in audio deepfake detection.
+- This implementation is inspired by [research paper](https://www.isca-archive.org/interspeech_2024/kim24b_interspeech.pdf).
