@@ -3,12 +3,6 @@
 ## 📖 Overview
 This repository provides an implementation of the **Adaptive Centroid Shift Loss (AOCloss)** method for **Audio Deepfake Detection**, as described in the corresponding [research paper](https://www.isca-archive.org/interspeech_2024/kim24b_interspeech.pdf). The approach employs a one-class learning framework that continuously adapts a centroid to represent bonafide audio embeddings while maximizing the distance of fake embeddings.
 
-## ⚙️ Features
-- **Dynamic Centroid Update**: Continuously updates the centroid based on bonafide embeddings.
-- **Cosine Similarity Loss**: Ensures that bonafide samples are closer to the centroid and fake samples are pushed further away.
-- **Robust One-Class Learning**: Optimized for scenarios where fake data is highly variable.
-- **PyTorch-Based**: Easy integration with PyTorch workflows.
-
 ## 🛠️ Usage
 ### 1. **Initialization**
 ```python
