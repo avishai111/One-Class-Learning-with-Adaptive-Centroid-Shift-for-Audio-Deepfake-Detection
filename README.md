@@ -6,7 +6,7 @@ This repository provides an implementation of the **Adaptive Centroid Shift Loss
 ## 🛠️ Usage
 ### 1. **Initialization**
 ```python
-from loss import AOCloss
+from AOC_loss import AOCloss
 
 # Initialize with desired embedding dimension
 criterion = AOCloss(embedding_dim=512)
