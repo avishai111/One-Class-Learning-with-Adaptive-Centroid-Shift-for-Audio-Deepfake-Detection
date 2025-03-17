@@ -38,7 +38,7 @@ criterion.update_centroid(bonafide_embeddings)
   - This is expected due to the range of cosine similarity between `-1` and `1`.
 
 ## 📄 Citation
-If you use this implementation in your research, please consider citing the following paper:
+This github implementation based on the following paper:
 
 ```
 @inproceedings{kim24b_interspeech,
