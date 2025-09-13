@@ -37,9 +37,19 @@ criterion.update_centroid(bonafide_embeddings)
 - **Negative Loss**:
   - This is expected due to the range of cosine similarity between `-1` and `1`.
 
-## 📄 Citation
+## 📄 Citations
+If you use this repository in your work, please cite it as follows:
+```
+@misc{Weizman2025_OneClassACS_GitHub,
+  author       = {Weizman, Avishai},
+  title        = {One-Class Learning with Adaptive Centroid Shift for Audio Deepfake Detection — Implementation (GitHub)},
+  howpublished = {GitHub repository},
+  year         = {2025},
+  url          = {https://github.com/avishai111/One-Class-Learning-with-Adaptive-Centroid-Shift-for-Audio-Deepfake-Detection},
+  note         = {Related to the paper “One-Class Learning with Adaptive Centroid Shift for Audio Deepfake Detection” by Kim, Jang, and Kim, Interspeech 2024.}
+}
+```
 This github implementation based on the following paper:
-
 ```
 @inproceedings{kim24b_interspeech,
   title     = {One-class learning with adaptive centroid shift for audio deepfake detection},
@@ -57,3 +67,17 @@ For issues or questions, feel free to open an issue in the repository.
 
 ## 📢 Acknowledgments
 - This implementation is inspired by [research paper](https://www.isca-archive.org/interspeech_2024/kim24b_interspeech.pdf).
+
+- 
+## 📬 Contact
+
+If you have questions, feedback, or want to collaborate, feel free to reach out:
+
+ 📧 Email: [Avishai Weizman](mailto:wavishay@post.bgu.ac.il)  
+
+ 🔗 GitHub: [github.com/avishai111](https://github.com/avishai111)
+
+ 🎓 Google Scholar: [Avishai Weizman](https://scholar.google.com/citations?hl=iw&user=vWlnVpUAAAAJ)  
+ 
+ 💼 LinkedIn: [linkedin.com/in/avishai-weizman/](https://www.linkedin.com/in/avishai-weizman/)
+ 
