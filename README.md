@@ -68,7 +68,6 @@ For issues or questions, feel free to open an issue in the repository.
 ## 📢 Acknowledgments
 - This implementation is inspired by [research paper](https://www.isca-archive.org/interspeech_2024/kim24b_interspeech.pdf).
 
-- 
 ## 📬 Contact
 
 If you have questions, feedback, or want to collaborate, feel free to reach out:
